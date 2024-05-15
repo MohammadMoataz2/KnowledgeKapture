@@ -8,7 +8,7 @@
 KnowledgeKapture is an information retrieval system and search engine designed to enable users to efficiently search through PDF, Word, and TXT files and crawling them. Leveraging Natural Language Processing (NLP) techniques, it preprocesses both files and queries to enhance search accuracy and crawling Process. The system ranks search results using a similarity ranking method for effective information retrieval. Additionally, a user-friendly interface built with tkinter facilitates easy query input and result display.
 
 
-![image](https://github.com/MohammadMoataz2/KnowledgeKapture_Versions_2/assets/123085286/c820ed0c-479b-41cd-bfaa-f390e7d109cb)
+![image](https://github.com/MohammadMoataz2/KnowledgeKapture/assets/123085286/25aa0469-5554-4405-b81d-94976ee735e6)
 
 ## Features
 - **Versatile Search:** Supports searching across diverse file formats including PDF, Word, and TXT.
@@ -27,7 +27,7 @@ KnowledgeKapture is an information retrieval system and search engine designed t
 
 ## Pipeline
 
-![1](https://github.com/MohammadMoataz2/KnowledgeKapture_Versions_2/assets/123085286/53d64d03-8464-47cc-b1cc-cbe1fe23380a)
+![image](https://github.com/MohammadMoataz2/KnowledgeKapture/assets/123085286/6bfc87d2-39fc-43ad-92d1-3441c11d6e51)
 
 The KnowledgeKapture system follows the following pipeline:
 
@@ -48,7 +48,7 @@ The KnowledgeKapture system follows the following pipeline:
 - **File Formats:** Supports PDF, Word, and TXT.
 
 
-![image](https://github.com/MohammadMoataz2/KnowledgeKapture_Versions_2/assets/123085286/2f9b3cc2-e930-4329-b02f-f9d0f95c0b1e)
+![image](https://github.com/MohammadMoataz2/KnowledgeKapture/assets/123085286/565f1c82-036b-45a0-8bf4-6e75bde8f261)
 
 ## Installation
 1. Clone the repository:
